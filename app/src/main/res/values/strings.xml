@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Wallpaper</string>
     <string name="roll">Roll</string>
+    <string name="custom_tile_label">Change</string>
 </resources>

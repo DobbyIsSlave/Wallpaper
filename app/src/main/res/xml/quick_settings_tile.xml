@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tile xmlns:android="http://schemas.android.com/apk/res/android">
+    <title>@string/custom_tile_label</title>
+    <icon>@drawable/ic_custom_tile_icon</icon>
+    <on-lick intent="Intent" />
+</tile>
