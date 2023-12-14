@@ -27,11 +27,6 @@
         </activity>
 
         <service
-            android:name=".MyJobService"
-            android:permission="android.permission.BIND_JOB_SERVICE"
-            android:exported="false" />
-
-        <service
             android:name=".CustomTileService"
             android:label="@string/custom_tile_label"
             android:icon="@drawable/ic_custom_tile_icon"
